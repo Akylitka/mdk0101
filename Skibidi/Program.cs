@@ -10,7 +10,8 @@ namespace Skibidi
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("муняня");
+            Console.ReadKey();
         }
     }
 }
