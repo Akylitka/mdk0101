@@ -10,7 +10,7 @@ namespace лр2
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Tovar> list = new List<Tovar>
             {
